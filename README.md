@@ -1,16 +1,4 @@
-# cat_api
+# Give me a cat!
 
-A new Flutter project.
+![give me a cat app](https://user-images.githubusercontent.com/46230696/162093771-09cb0a52-e75e-495d-a04d-c00bf09e4332.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
